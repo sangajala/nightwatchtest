@@ -1,0 +1,719 @@
+16:23:31.545 INFO - Launching a standalone Selenium Server
+16:23:31.576 INFO - Java: Oracle Corporation 25.121-b13
+16:23:31.576 INFO - OS: Mac OS X 10.12 x86_64
+16:23:31.585 INFO - v2.53.0, with Core v2.53.0. Built from revision 35ae25b
+16:23:31.642 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+16:23:31.643 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+16:23:31.643 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+16:23:31.643 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+16:23:31.644 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+16:23:31.644 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+16:23:31.740 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+16:23:31.740 INFO - Selenium Server is up and running
+16:23:32.352 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Facebookjourney, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]])
+16:23:32.353 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Qandb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]])
+16:23:32.362 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Facebookjourney, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]
+16:23:32.362 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Qandb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]
+SSttaarrttiinngg  CChhrroommeeDDrriivveerr  22..2277..444400117744  ((ee9977aa772222ccaaaaffcc22dd33aa88bb880077eeee111155bbffbb307f7d2cfd9) on port 44557
+Only local connections are allowed.
+307f7d2cfd9) on port 13898
+Only local connections are allowed.
+16:23:33.785 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Facebookjourney, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]]
+16:23:33.810 INFO - Executing: [get: https://boughtbymany.com/offers/pet-insurance/landing-claim-your-discount/])
+16:23:33.946 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Qandb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46
+            (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3, --window-size=640,1136]}, platform=ANY}]]
+16:23:33.977 INFO - Executing: [get: https://bbm:bbm66m@uat.boughtbymany.com/quotes/cat-dog/#/pet-details])
+16:23:36.343 INFO - Done: [get: https://bbm:bbm66m@uat.boughtbymany.com/quotes/cat-dog/#/pet-details]
+16:23:36.350 INFO - Executing: [maximise window])
+16:23:36.557 INFO - Done: [get: https://boughtbymany.com/offers/pet-insurance/landing-claim-your-discount/]
+16:23:36.571 INFO - Executing: [maximise window])
+16:23:36.847 INFO - Done: [maximise window]
+16:23:36.857 INFO - Executing: [find element: By.cssSelector: #id_username])
+16:23:37.215 INFO - Done: [maximise window]
+16:23:37.230 INFO - Executing: [find elements: By.cssSelector: #button-join-via-facebook])
+16:23:37.296 INFO - Done: [find elements: By.cssSelector: #button-join-via-facebook]
+16:23:37.312 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #button-join-via-facebook]])
+16:23:37.353 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #button-join-via-facebook]]
+16:23:37.366 INFO - Executing: [find element: By.cssSelector: #button-join-via-facebook])
+16:23:37.397 INFO - Done: [find element: By.cssSelector: #button-join-via-facebook]
+16:23:37.402 INFO - Executing: [click: 0 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #button-join-via-facebook]])
+16:23:37.512 INFO - Done: [find element: By.cssSelector: #id_username]
+16:23:37.518 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_username]])
+16:23:37.560 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_username]]
+16:23:37.568 INFO - Executing: [find element: By.cssSelector: #id_username])
+16:23:37.593 INFO - Done: [find element: By.cssSelector: #id_username]
+16:23:37.599 INFO - Executing: [send keys: 0 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_username], [s, u, r, y, a, @, b, o, u, g, h, t, b, y, m, a, n, y, ., c, o, m]])
+16:23:37.746 INFO - Done: [send keys: 0 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_username], [s, u, r, y, a, @, b, o, u, g, h, t, b, y, m, a, n, y, ., c, o, m]]
+16:23:37.752 INFO - Executing: [find element: By.cssSelector: #id_password])
+16:23:37.775 INFO - Done: [find element: By.cssSelector: #id_password]
+16:23:37.779 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_password], [S, o, n, y, H, p, D, e, l, l, 3]])
+16:23:37.863 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #id_password], [S, o, n, y, H, p, D, e, l, l, 3]]
+16:23:37.868 INFO - Executing: [find element: By.cssSelector: body .form-wrap .button])
+16:23:37.896 INFO - Done: [find element: By.cssSelector: body .form-wrap .button]
+16:23:37.901 INFO - Executing: [click: 2 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: body .form-wrap .button]])
+16:23:39.311 INFO - Done: [click: 0 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #button-join-via-facebook]]
+16:23:39.349 INFO - Executing: [find elements: By.cssSelector: #email])
+16:23:39.417 INFO - Done: [find elements: By.cssSelector: #email]
+16:23:39.432 INFO - Executing: [is displayed: 4 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #email]])
+16:23:39.475 INFO - Done: [is displayed: 4 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #email]]
+16:23:39.490 INFO - Executing: [find element: By.cssSelector: #email])
+16:23:39.522 INFO - Done: [find element: By.cssSelector: #email]
+16:23:39.529 INFO - Executing: [send keys: 4 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #email], [v, e, n, k, a, t, d, o, t, t, e, j, a, @, g, m, a, i, l, ., c, o, m]])
+16:23:39.714 INFO - Done: [send keys: 4 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #email], [v, e, n, k, a, t, d, o, t, t, e, j, a, @, g, m, a, i, l, ., c, o, m]]
+16:23:39.729 INFO - Executing: [find elements: By.cssSelector: #pass])
+16:23:39.760 INFO - Done: [find elements: By.cssSelector: #pass]
+16:23:39.765 INFO - Executing: [is displayed: 5 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #pass]])
+16:23:39.791 INFO - Done: [is displayed: 5 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #pass]]
+16:23:39.796 INFO - Executing: [find element: By.cssSelector: #pass])
+16:23:39.819 INFO - Done: [find element: By.cssSelector: #pass]
+16:23:39.826 INFO - Executing: [send keys: 5 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #pass], [S, o, n, y, H, p, D, e, l, l, 3]])
+16:23:39.956 INFO - Done: [send keys: 5 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #pass], [S, o, n, y, H, p, D, e, l, l, 3]]
+16:23:39.969 INFO - Executing: [find element: By.cssSelector: #loginbutton])
+16:23:40.001 INFO - Done: [find element: By.cssSelector: #loginbutton]
+16:23:40.005 INFO - Executing: [click: 6 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #loginbutton]])
+16:23:41.466 INFO - Done: [click: 2 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: body .form-wrap .button]]
+16:23:41.478 INFO - Executing: [find elements: By.cssSelector: .panel-pet-details])
+16:23:41.500 INFO - Done: [find elements: By.cssSelector: .panel-pet-details]
+16:23:41.504 INFO - Executing: [is displayed: 3 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .panel-pet-details]])
+16:23:41.527 INFO - Done: [is displayed: 3 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .panel-pet-details]]
+16:23:41.548 INFO - Executing: [find elements: By.cssSelector: #app > div > section > div.splash.fullheight > div > a])
+16:23:41.569 INFO - Done: [find elements: By.cssSelector: #app > div > section > div.splash.fullheight > div > a]
+16:23:41.575 INFO - Executing: [is displayed: 4 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #app > div > section > div.splash.fullheight > div > a]])
+16:23:41.595 INFO - Done: [is displayed: 4 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #app > div > section > div.splash.fullheight > div > a]]
+16:23:41.599 INFO - Executing: [find element: By.cssSelector: #app > div > section > div.splash.fullheight > div > a])
+16:23:41.620 INFO - Done: [find element: By.cssSelector: #app > div > section > div.splash.fullheight > div > a]
+16:23:41.628 INFO - Executing: [click: 4 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #app > div > section > div.splash.fullheight > div > a]])
+16:23:41.694 INFO - Done: [click: 4 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #app > div > section > div.splash.fullheight > div > a]]
+16:23:42.702 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_species .mutt-natural-trigger])
+16:23:42.731 INFO - Done: [find element: By.cssSelector: #insured_entities_1_species .mutt-natural-trigger]
+16:23:42.736 INFO - Executing: [click: 5 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species .mutt-natural-trigger]])
+16:23:42.838 INFO - Done: [click: 5 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species .mutt-natural-trigger]]
+16:23:42.848 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:42.899 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:42.906 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:42.939 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:42.947 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:42.970 INFO - Done: [find element: By.cssSelector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:42.975 INFO - Executing: [click: 6 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:43.043 INFO - Done: [click: 6 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_species > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:43.049 INFO - Done: [click: 6 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #loginbutton]]
+16:23:43.056 INFO - Executing: [find elements: By.cssSelector: #done-sharing])
+16:23:43.056 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_pet_name .mutt-natural-trigger])
+16:23:43.096 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_pet_name .mutt-natural-trigger]
+16:23:43.100 INFO - Executing: [is displayed: 7 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name .mutt-natural-trigger]])
+16:23:43.101 INFO - Done: [find elements: By.cssSelector: #done-sharing]
+16:23:43.105 INFO - Executing: [is displayed: 7 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #done-sharing]])
+16:23:43.138 INFO - Done: [is displayed: 7 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name .mutt-natural-trigger]]
+16:23:43.142 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_name .mutt-natural-trigger])
+16:23:43.164 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_name .mutt-natural-trigger]
+16:23:43.167 INFO - Executing: [click: 7 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name .mutt-natural-trigger]])
+16:23:43.232 INFO - Done: [click: 7 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name .mutt-natural-trigger]]
+16:23:43.237 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input])
+16:23:43.272 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input]
+16:23:43.275 INFO - Executing: [is displayed: 8 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input]])
+16:23:43.307 INFO - Done: [is displayed: 8 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input]]
+16:23:43.314 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input])
+16:23:43.350 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input]
+16:23:43.355 INFO - Executing: [send keys: 8 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input], [t, e, s, t]])
+16:23:43.412 INFO - Done: [send keys: 8 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > input], [t, e, s, t]]
+16:23:43.417 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > button])
+16:23:43.422 INFO - Done: [is displayed: 7 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #done-sharing]]
+16:23:43.425 INFO - Executing: [find element: By.cssSelector: #done-sharing])
+16:23:43.451 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > button]
+16:23:43.454 INFO - Executing: [click: 9 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > button]])
+16:23:43.480 INFO - Done: [find element: By.cssSelector: #done-sharing]
+16:23:43.485 INFO - Executing: [click: 7 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #done-sharing]])
+16:23:43.540 INFO - Done: [click: 9 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_name > div > div.mutt-natural-modal-inner > button]]
+16:23:43.554 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_breed .mutt-natural-trigger])
+16:23:43.605 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_breed .mutt-natural-trigger]
+16:23:43.612 INFO - Executing: [is displayed: 10 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed .mutt-natural-trigger]])
+16:23:43.657 INFO - Done: [is displayed: 10 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed .mutt-natural-trigger]]
+16:23:43.662 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_breed .mutt-natural-trigger])
+16:23:43.687 INFO - Done: [find element: By.cssSelector: #insured_entities_1_breed .mutt-natural-trigger]
+16:23:43.691 INFO - Executing: [click: 10 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed .mutt-natural-trigger]])
+16:23:43.762 INFO - Done: [click: 10 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed .mutt-natural-trigger]]
+16:23:43.766 INFO - Executing: [find element: By.cssSelector: #breed-modal-1 > div > div > div.mutt-field-radio-item.mutt-field-radio-item--first > label])
+16:23:43.801 INFO - Done: [find element: By.cssSelector: #breed-modal-1 > div > div > div.mutt-field-radio-item.mutt-field-radio-item--first > label]
+16:23:43.806 INFO - Executing: [click: 11 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #breed-modal-1 > div > div > div.mutt-field-radio-item.mutt-field-radio-item--first > label]])
+16:23:43.907 INFO - Done: [click: 11 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #breed-modal-1 > div > div > div.mutt-field-radio-item.mutt-field-radio-item--first > label]]
+16:23:43.912 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete])
+16:23:43.955 INFO - Done: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete]
+16:23:43.967 INFO - Executing: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [p]])
+16:23:44.046 INFO - Done: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [p]]
+16:23:44.559 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete])
+16:23:44.575 INFO - Done: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete]
+16:23:44.583 INFO - Executing: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [u]])
+16:23:44.620 INFO - Done: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [u]]
+16:23:45.126 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete])
+16:23:45.137 INFO - Done: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete]
+16:23:45.149 INFO - Executing: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [g]])
+16:23:45.175 INFO - Done: [send keys: 12 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > input.mutt-natural-autocomplete], [g]]
+16:23:45.686 INFO - Executing: [find elements: By.cssSelector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]])
+16:23:45.713 INFO - Done: [find elements: By.cssSelector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]
+16:23:45.715 INFO - Executing: [is displayed: 13 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]])
+16:23:45.745 INFO - Done: [is displayed: 13 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]]
+16:23:45.750 INFO - Executing: [find element: By.cssSelector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]])
+16:23:45.776 INFO - Done: [find element: By.cssSelector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]
+16:23:45.779 INFO - Executing: [click: 13 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]])
+16:23:45.859 INFO - Done: [click: 13 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: .mutt-autocomplete-dropdown.mutt-autocomplete-dropdown-show .mutt-autocomplete-dropdown__listitem[data-selectvalue="PUG"]]]
+16:23:45.875 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > button])
+16:23:45.908 INFO - Done: [find element: By.cssSelector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > button]
+16:23:45.911 INFO - Executing: [click: 14 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > button]])
+16:23:45.970 INFO - Done: [click: 14 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_breed > div > div.mutt-natural-modal-inner.breed-modal > button]]
+16:23:45.973 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_dob .mutt-natural-trigger])
+16:23:46.000 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_dob .mutt-natural-trigger]
+16:23:46.004 INFO - Executing: [is displayed: 15 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-trigger]])
+16:23:46.035 INFO - Done: [is displayed: 15 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-trigger]]
+16:23:46.038 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_dob .mutt-natural-trigger])
+16:23:46.079 INFO - Done: [find element: By.cssSelector: #insured_entities_1_dob .mutt-natural-trigger]
+16:23:46.092 INFO - Executing: [click: 15 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-trigger]])
+16:23:46.212 INFO - Done: [click: 15 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-trigger]]
+16:23:46.217 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)])
+16:23:46.272 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]
+16:23:46.276 INFO - Executing: [is displayed: 16 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]])
+16:23:46.317 INFO - Done: [is displayed: 16 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]]
+16:23:46.336 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)])
+16:23:46.373 INFO - Done: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]
+16:23:46.379 INFO - Executing: [click: 16 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]])
+16:23:46.518 INFO - Done: [click: 7 [[ChromeDriver: chrome on MAC (5fd980b68b2bc5c8c51d37274f2b135d)] -> css selector: #done-sharing]]
+16:23:46.535 INFO - Done: [click: 16 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(2)]]
+16:23:46.541 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)])
+16:23:46.591 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]
+16:23:46.594 INFO - Executing: [is displayed: 17 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]])
+16:23:46.622 INFO - Done: [is displayed: 17 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]]
+16:23:46.624 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)])
+16:23:46.650 INFO - Done: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]
+16:23:46.653 INFO - Executing: [click: 17 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]])
+16:23:47.052 INFO - Done: [click: 17 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(3)]]
+16:23:47.059 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)])
+16:23:47.084 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]
+16:23:47.087 INFO - Executing: [is displayed: 18 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]])
+16:23:47.116 INFO - Done: [is displayed: 18 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]]
+16:23:47.120 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)])
+16:23:47.146 INFO - Done: [find element: By.cssSelector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]
+16:23:47.151 INFO - Executing: [click: 18 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]])
+16:23:47.494 INFO - Done: [click: 18 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob > div > div.mutt-natural-modal-inner > div > select:nth-child(4)]]
+16:23:47.498 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_dob .mutt-natural-toggle])
+16:23:47.520 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_dob .mutt-natural-toggle]
+16:23:47.523 INFO - Executing: [is displayed: 19 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-toggle]])
+16:23:47.546 INFO - Done: [is displayed: 19 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-toggle]]
+16:23:47.549 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_dob .mutt-natural-toggle])
+16:23:47.571 INFO - Done: [find element: By.cssSelector: #insured_entities_1_dob .mutt-natural-toggle]
+16:23:47.573 INFO - Executing: [click: 19 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-toggle]])
+16:23:47.883 INFO - Done: [click: 19 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_dob .mutt-natural-toggle]]
+16:23:47.888 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_gender .mutt-natural-trigger])
+16:23:47.919 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_gender .mutt-natural-trigger]
+16:23:47.921 INFO - Executing: [is displayed: 20 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender .mutt-natural-trigger]])
+16:23:47.948 INFO - Done: [is displayed: 20 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender .mutt-natural-trigger]]
+16:23:47.952 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_gender .mutt-natural-trigger])
+16:23:47.994 INFO - Done: [find element: By.cssSelector: #insured_entities_1_gender .mutt-natural-trigger]
+16:23:47.998 INFO - Executing: [click: 20 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender .mutt-natural-trigger]])
+16:23:48.076 INFO - Done: [click: 20 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender .mutt-natural-trigger]]
+16:23:48.083 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label])
+16:23:48.111 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]
+16:23:48.115 INFO - Executing: [is displayed: 21 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]])
+16:23:48.140 INFO - Done: [is displayed: 21 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]]
+16:23:48.144 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label])
+16:23:48.168 INFO - Done: [find element: By.cssSelector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]
+16:23:48.170 INFO - Executing: [click: 21 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]])
+16:23:48.229 INFO - Done: [click: 21 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_gender > div > div.mutt-natural-modal-inner > div > div:nth-child(1) > label]]
+16:23:48.739 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_healthy .mutt-natural-trigger])
+16:23:48.771 INFO - Done: [find element: By.cssSelector: #insured_entities_1_healthy .mutt-natural-trigger]
+16:23:48.772 INFO - Executing: [click: 22 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy .mutt-natural-trigger]])
+16:23:48.827 INFO - Done: [click: 22 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy .mutt-natural-trigger]]
+16:23:48.831 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:48.853 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:48.855 INFO - Executing: [is displayed: 23 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:48.873 INFO - Done: [is displayed: 23 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:48.878 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:48.899 INFO - Done: [find element: By.cssSelector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:48.901 INFO - Executing: [click: 23 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:48.955 INFO - Done: [click: 23 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_healthy > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:48.958 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_spayed_neutered .mutt-natural-trigger])
+16:23:48.982 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]
+16:23:48.984 INFO - Executing: [is displayed: 24 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]])
+16:23:49.008 INFO - Done: [is displayed: 24 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]]
+16:23:49.011 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_spayed_neutered .mutt-natural-trigger])
+16:23:49.032 INFO - Done: [find element: By.cssSelector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]
+16:23:49.037 INFO - Executing: [click: 24 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]])
+16:23:49.093 INFO - Done: [click: 24 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered .mutt-natural-trigger]]
+16:23:49.097 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:49.120 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:49.122 INFO - Executing: [is displayed: 25 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:49.142 INFO - Done: [is displayed: 25 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:49.145 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label])
+16:23:49.168 INFO - Done: [find element: By.cssSelector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]
+16:23:49.170 INFO - Executing: [click: 25 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]])
+16:23:49.224 INFO - Done: [click: 25 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_spayed_neutered > div > div.mutt-natural-modal-inner > div > div:nth-child(2) > label]]
+16:23:49.227 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_value .mutt-natural-trigger])
+16:23:49.252 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_value .mutt-natural-trigger]
+16:23:49.255 INFO - Executing: [is displayed: 26 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-trigger]])
+16:23:49.279 INFO - Done: [is displayed: 26 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-trigger]]
+16:23:49.282 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_value .mutt-natural-trigger])
+16:23:49.305 INFO - Done: [find element: By.cssSelector: #insured_entities_1_value .mutt-natural-trigger]
+16:23:49.308 INFO - Executing: [click: 26 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-trigger]])
+16:23:49.430 INFO - Done: [click: 26 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-trigger]]
+16:23:49.434 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input])
+16:23:49.456 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input]
+16:23:49.460 INFO - Executing: [is displayed: 27 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input]])
+16:23:49.482 INFO - Done: [is displayed: 27 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input]]
+16:23:49.486 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input])
+16:23:49.508 INFO - Done: [find element: By.cssSelector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input]
+16:23:49.511 INFO - Executing: [send keys: 27 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input], [4, 0, 0]])
+16:23:49.561 INFO - Done: [send keys: 27 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value > div > div.mutt-natural-modal-inner > div > input], [4, 0, 0]]
+16:23:49.563 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_value .mutt-natural-toggle])
+16:23:49.584 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_value .mutt-natural-toggle]
+16:23:49.586 INFO - Executing: [is displayed: 28 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-toggle]])
+16:23:49.606 INFO - Done: [is displayed: 28 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-toggle]]
+16:23:49.608 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_value .mutt-natural-toggle])
+16:23:49.627 INFO - Done: [find element: By.cssSelector: #insured_entities_1_value .mutt-natural-toggle]
+16:23:49.629 INFO - Executing: [click: 28 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-toggle]])
+16:23:49.678 INFO - Done: [click: 28 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_value .mutt-natural-toggle]]
+16:23:49.680 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger])
+16:23:49.702 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]
+16:23:49.706 INFO - Executing: [is displayed: 29 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]])
+16:23:49.728 INFO - Done: [is displayed: 29 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]]
+16:23:49.732 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger])
+16:23:49.755 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]
+16:23:49.757 INFO - Executing: [click: 29 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]])
+16:23:49.817 INFO - Done: [click: 29 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-trigger]]
+16:23:49.821 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:49.845 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:49.847 INFO - Executing: [is displayed: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]])
+16:23:49.873 INFO - Done: [is displayed: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]]
+16:23:50.383 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:50.408 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:50.410 INFO - Executing: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [E]])
+16:23:50.452 INFO - Done: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [E]]
+16:23:50.659 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:50.673 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:50.676 INFO - Executing: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [6]])
+16:23:50.693 INFO - Done: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [6]]
+16:23:50.904 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:50.919 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:50.923 INFO - Executing: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [ , 2]])
+16:23:50.960 INFO - Done: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [ , 2]]
+16:23:51.166 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:51.183 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:51.187 INFO - Executing: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [E]])
+16:23:51.211 INFO - Done: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [E]]
+16:23:51.420 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input])
+16:23:51.436 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input]
+16:23:51.440 INFO - Executing: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [A]])
+16:23:51.486 INFO - Done: [send keys: 30 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > input], [A]]
+16:23:52.495 INFO - Executing: [find element: By.cssSelector: body > div.pca > div:nth-child(7) > div.pca.pcalist > div.pcaitem.pcafirstitem])
+16:23:52.524 INFO - Done: [find element: By.cssSelector: body > div.pca > div:nth-child(7) > div.pca.pcalist > div.pcaitem.pcafirstitem]
+16:23:52.526 INFO - Executing: [click: 31 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: body > div.pca > div:nth-child(7) > div.pca.pcalist > div.pcaitem.pcafirstitem]])
+16:23:52.576 INFO - Done: [click: 31 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: body > div.pca > div:nth-child(7) > div.pca.pcalist > div.pcaitem.pcafirstitem]]
+16:23:52.578 INFO - Executing: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle])
+16:23:52.598 INFO - Done: [find elements: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]
+16:23:52.602 INFO - Executing: [is displayed: 32 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]])
+16:23:52.625 INFO - Done: [is displayed: 32 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]]
+16:23:52.628 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > button])
+16:23:52.650 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode > div > div.mutt-natural-modal-inner > button]
+16:23:52.652 INFO - Executing: [click: 32 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]])
+16:23:52.709 INFO - Done: [click: 32 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]]
+16:23:52.713 INFO - Executing: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle])
+16:23:52.742 INFO - Done: [find element: By.cssSelector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]
+16:23:52.745 INFO - Executing: [click: 32 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_1_pet_address_postcode .mutt-natural-toggle]])
+16:24:03.734 WARN - Exception thrown
+org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:335)
+	at com.sun.proxy.$Proxy2.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:348)
+	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.remote.server.KnownElements$1.invoke(KnownElements.java:64)
+	at com.sun.proxy.$Proxy3.click(Unknown Source)
+	at org.openqa.selenium.remote.server.handler.ClickElement.call(ClickElement.java:30)
+	at org.openqa.selenium.remote.server.handler.ClickElement.call(ClickElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:24:23.926 WARN - Exception: element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+16:24:52.758 INFO - Executing: [find elements: By.cssSelector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left])
+16:24:52.781 INFO - Done: [find elements: By.cssSelector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]
+16:24:52.784 INFO - Executing: [is displayed: 33 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]])
+16:24:52.802 INFO - Done: [is displayed: 33 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]]
+16:24:52.807 INFO - Executing: [find element: By.cssSelector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left])
+16:24:52.826 INFO - Done: [find element: By.cssSelector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]
+16:24:52.829 INFO - Executing: [click: 33 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]])
+16:24:52.920 INFO - Done: [click: 33 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: #insured_entities_field_1 > div > div > div.mutt-button-wrapper > button.mutt-button.btn.space-right.space-left]]
+16:24:52.943 INFO - Executing: [find elements: By.cssSelector: h1.fullstop])
+16:24:52.974 INFO - Done: [find elements: By.cssSelector: h1.fullstop]
+16:24:52.988 INFO - Executing: [is displayed: 34 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: h1.fullstop]])
+16:24:53.012 INFO - Done: [is displayed: 34 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: h1.fullstop]]
+16:24:53.018 INFO - Executing: [find element: By.cssSelector: body.btn--wide .button])
+16:25:04.369 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"body.btn--wide .button"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=body.btn--wide .button}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:25:24.619 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"body.btn--wide .button"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=body.btn--wide .button}
+16:25:53.027 INFO - Executing: [find element: By.cssSelector: #app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60.policy-card-wrapper > div > div:nth-child(1) > div:nth-child(3) > article > div.product-option__foot.center > button])
+16:26:05.150 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60.policy-card-wrapper > div > div:nth-child(1) > div:nth-child(3) > article > div.product-option__foot.center > button"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60.policy-card-wrapper > div > div:nth-child(1) > div:nth-child(3) > article > div.product-option__foot.center > button}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:26:25.314 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60.policy-card-wrapper > div > div:nth-child(1) > div:nth-child(3) > article > div.product-option__foot.center > button"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60.policy-card-wrapper > div > div:nth-child(1) > div:nth-child(3) > article > div.product-option__foot.center > button}
+16:26:53.545 INFO - Executing: [find element: By.cssSelector: #app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(1) > div > a])
+16:27:05.844 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(1) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(1) > div > a}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:27:26.103 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(1) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(1) > div > a}
+16:27:54.061 INFO - Executing: [find element: By.cssSelector: #app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(2) > div > a])
+16:28:06.598 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(2) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(2) > div > a}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:28:26.839 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(2) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(2) > div > a}
+16:28:54.574 INFO - Executing: [find element: By.cssSelector: #app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(3) > div > a])
+16:29:07.295 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(3) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(3) > div > a}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:29:27.505 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(3) > div > a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-5.col-md-7 > ul > li:nth-child(3) > div > a}
+16:29:55.097 INFO - Executing: [find element: By.cssSelector: #app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-7.col-md-5 > div.hidden-xs > div > div > div.product-option__foot.clearfix.hidden-xs > button:nth-child(2)])
+16:30:07.955 WARN - Exception thrown
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-7.col-md-5 > div.hidden-xs > div > div > div.product-option__foot.clearfix.hidden-xs > button:nth-child(2)"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-7.col-md-5 > div.hidden-xs > div > div > div.product-option__foot.clearfix.hidden-xs > button:nth-child(2)}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+16:30:28.183 WARN - Exception: no such element: Unable to locate element: {"method":"css selector","selector":"#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-7.col-md-5 > div.hidden-xs > div > div > div.product-option__foot.clearfix.hidden-xs > button:nth-child(2)"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Suryas-MacBook-Air.local', ip: '10.0.1.92', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/dw/5gppcx9s52d0c2_s0b9pd_9c0000gn/T/.org.chromium.Chromium.AnWnTI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9076ebf8264a0b6e5edb18e6bd421dfe
+*** Element info: {Using=css selector, value=#app > div.fullheight.footer-wrap.footer-wrap--qb > div:nth-child(2) > div.bkg--navy.vpad--60 > div > div.row > div.col-sm-7.col-md-5 > div.hidden-xs > div > div > div.product-option__foot.clearfix.hidden-xs > button:nth-child(2)}
+16:30:55.105 INFO - Executing: [find elements: By.cssSelector: h1.fullstop.flow])
+16:30:55.131 INFO - Done: [find elements: By.cssSelector: h1.fullstop.flow]
+16:30:55.133 INFO - Executing: [is displayed: 35 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: h1.fullstop.flow]])
+16:30:55.155 INFO - Done: [is displayed: 35 [[ChromeDriver: chrome on MAC (9076ebf8264a0b6e5edb18e6bd421dfe)] -> css selector: h1.fullstop.flow]]
+16:30:55.162 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:55.183 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:55.687 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:55.699 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:56.204 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:56.217 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:56.721 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:56.737 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:57.241 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:57.259 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:57.763 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:57.778 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:58.283 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:58.298 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:58.801 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:58.810 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:59.318 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:59.332 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:30:59.838 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:30:59.854 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:00.362 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:00.375 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:00.880 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:00.892 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:01.395 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:01.403 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:01.906 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:01.916 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:02.423 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:02.439 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:02.942 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:02.951 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:03.455 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:03.475 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:03.983 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:03.995 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:04.500 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:04.523 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:05.030 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:05.038 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:05.541 INFO - Executing: [find elements: By.cssSelector: #policy_holders_1_title > span > a])
+16:31:05.557 INFO - Done: [find elements: By.cssSelector: #policy_holders_1_title > span > a]
+16:31:05.561 INFO - Executing: [delete session: f15df18d-bedf-499b-838f-57a251c5fd21])
+16:31:05.654 INFO - Done: [delete session: f15df18d-bedf-499b-838f-57a251c5fd21]
