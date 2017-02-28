@@ -6,9 +6,7 @@ var testenv = {
     testusername: 'surya@boughtbymany.com',
     testuserpasswordid: '#id_password',
     testuserpassword: 'SonyHpDell3',
-
-
-
+    
 };
 
 module.exports = testenv;

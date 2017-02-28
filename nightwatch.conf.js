@@ -1,14 +1,14 @@
 require('env2')('.env'); // optionally store your environment variables in .env
 const PKG = require('./package.json'); // so we can get the version of the project
 const BINPATH = './node_modules/nightwatch/bin/'; // change if required.
-const SCREENSHOT_PATH = "/Users/surya/Downloads/learn-nightwatch-master/test/results/screenshots" + PKG.version + "/";
+const SCREENSHOT_PATH = "results/screenshots/" + PKG.version + "/";
 
 const config = { // we use a nightwatch.conf.js file so we can include comments and helper functions
   "src_folders": [
     "test/e2e"     // we use '/test' as the name of our test directory by default. So 'test/e2e' for 'e2e'.
   ],
   //"output_folder": "./node_modules/nightwatch/reports", // reports (test outcome) output by Nightwatch
-    "output_folder": "/Users/surya/Downloads/learn-nightwatch-master/test/results/logs",
+    "output_folder": "results/logs",
   "selenium": {
     "start_process": true,
     "server_path": BINPATH + "selenium.jar", // downloaded by selenium-download module (see below)
@@ -18,16 +18,16 @@ const config = { // we use a nightwatch.conf.js file so we can include comments 
     "cli_args": {
       "webdriver.chrome.driver" : BINPATH + "chromedriver" // also downloaded by selenium-download
     }
-  },
-  "test_workers" : {"enabled" : true, "workers" : "auto"}, // perform tests in parallel where possible
+  }, // perform tests in parallel where possible
   "test_settings": {
     "default": {
         "launch_url": "http://localhost",
         "selenium_port": 4444,
         "selenium_host": "127.0.0.1",
+        "end_session_on_fail": true,
       "silent": true,
       "screenshots": {
-        "enabled": false, // save screenshots to this directory (excluded by .gitignore)
+        "enabled": true, // save screenshots to this directory (excluded by .gitignore)
         "path": SCREENSHOT_PATH
       },
       "username" : "${SAUCE_USERNAME}",     // if you want to use Saucelabs remember to
